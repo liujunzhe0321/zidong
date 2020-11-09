@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="287" it="0" lt="286" ct="218" ts="1604892688039" s="true" lb="登陆" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="436" sby="235" ng="1" na="1"/>
+<httpSample t="66" it="0" lt="66" ct="0" ts="1604892688343" s="true" lb="添加学生信息" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="295" sby="328" ng="1" na="1"/>
+<httpSample t="74" it="0" lt="74" ct="0" ts="1604892688409" s="true" lb="获取学生数据" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="289" sby="161" ng="1" na="1"/>
+
+</testResults>
