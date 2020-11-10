@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testResults version="1.2">
-<httpSample t="865" it="0" lt="865" ct="824" ts="1604892689771" s="true" lb="HTTP请求" rc="200" rm="" tn="线程组 1-1" dt="text" by="1453" sby="222" ng="1" na="1"/>
-
-</testResults>
